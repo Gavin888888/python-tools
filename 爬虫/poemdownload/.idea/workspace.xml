@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71170f41-aab9-4e5c-9408-c06cd727b865" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YUE0qQy006ARCFsL9ZnQdyBurA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="videoCutter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="poemdownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/Volumes/lilei/项目/python/视频去片头/169" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/Volumes/lilei/项目/python/视频去片头/169/videoCutter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.videoCutter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71170f41-aab9-4e5c-9408-c06cd727b865" name="Default Changelist" comment="" />
+      <created>1571971950205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571971950205</updated>
+      <workItem from="1571971952030" duration="1865000" />
+      <workItem from="1571983358895" duration="660000" />
+      <workItem from="1573968834218" duration="1236000" />
+      <workItem from="1574040741534" duration="6000" />
+      <workItem from="1582988554478" duration="872000" />
+      <workItem from="1583294401073" duration="1545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="253" key="GridCell.Tab.0.bottom" timestamp="1583297667218">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1583297667218" />
+    <state width="1358" height="253" key="GridCell.Tab.0.center" timestamp="1583297667218">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1583297667218" />
+    <state width="1358" height="253" key="GridCell.Tab.0.left" timestamp="1583297667218">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1583297667218" />
+    <state width="1358" height="253" key="GridCell.Tab.0.right" timestamp="1583297667218">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1583297667218" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/poemdownload$videoCutter.coverage" NAME="videoCutter Coverage Results" MODIFIED="1583297656488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Volumes/lilei/项目/python/视频去片头/169" />
+  </component>
+</project>

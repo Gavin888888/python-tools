@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d4ffd1b-9603-43b8-9ca3-03e929b806ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwMpJdh6AGxZlZ1sMkwkV9OkE3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/iqyxs/spiders" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.webDriver">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iqyxs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iqyxs/spiders" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iqyxs/spiders/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="webDriver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iqyxs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iqyxs/spiders" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iqyxs/spiders/webDriver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.webDriver" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d4ffd1b-9603-43b8-9ca3-03e929b806ab" name="Default Changelist" comment="" />
+      <created>1583849384781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583849384781</updated>
+      <workItem from="1583849387256" duration="5171000" />
+      <workItem from="1583895532001" duration="5000" />
+      <workItem from="1583897391165" duration="2343000" />
+      <workItem from="1583928153592" duration="148000" />
+      <workItem from="1583930500553" duration="9950000" />
+      <workItem from="1584948059420" duration="497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1049" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583937243272">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="1049" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.990@0.23.1920.990" timestamp="1583937243272" />
+    <state x="195" y="141" key="#test" timestamp="1583852372434">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="195" y="141" key="#test/0.23.1920.988@0.23.1920.988" timestamp="1583852372434" />
+    <state x="1120" y="140" key="#webDriver" timestamp="1583897700739">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state x="1120" y="140" key="#webDriver/0.23.1920.987@0.23.1920.987" timestamp="1583897700739" />
+    <state width="1319" height="288" key="GridCell.Tab.0.bottom" timestamp="1583941230391">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1244" height="266" key="GridCell.Tab.0.bottom/0.23.1920.987@0.23.1920.987" timestamp="1583898119853" />
+    <state width="1514" height="266" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1583905969183" />
+    <state width="1255" height="186" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1583937647698" />
+    <state width="1319" height="84" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1583938189036" />
+    <state width="1319" height="288" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1583941230391" />
+    <state width="1319" height="288" key="GridCell.Tab.0.center" timestamp="1583941230390">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1244" height="266" key="GridCell.Tab.0.center/0.23.1920.987@0.23.1920.987" timestamp="1583898119852" />
+    <state width="1514" height="266" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1583905969182" />
+    <state width="1255" height="186" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1583937647698" />
+    <state width="1319" height="84" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1583938189035" />
+    <state width="1319" height="288" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1583941230390" />
+    <state width="1319" height="288" key="GridCell.Tab.0.left" timestamp="1583941230390">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1244" height="266" key="GridCell.Tab.0.left/0.23.1920.987@0.23.1920.987" timestamp="1583898119852" />
+    <state width="1514" height="266" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1583905969182" />
+    <state width="1255" height="186" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1583937647697" />
+    <state width="1319" height="84" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1583938189035" />
+    <state width="1319" height="288" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1583941230390" />
+    <state width="1319" height="288" key="GridCell.Tab.0.right" timestamp="1583941230391">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1244" height="266" key="GridCell.Tab.0.right/0.23.1920.987@0.23.1920.987" timestamp="1583898119853" />
+    <state width="1514" height="266" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1583905969182" />
+    <state width="1255" height="186" key="GridCell.Tab.0.right/0.23.1920.990@0.23.1920.990" timestamp="1583937647698" />
+    <state width="1319" height="84" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1583938189035" />
+    <state width="1319" height="288" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1583941230391" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/iqyxs$test.coverage" NAME="test Coverage Results" MODIFIED="1583855235771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iqyxs/spiders" />
+    <SUITE FILE_PATH="coverage/iqyxs$webDriver.coverage" NAME="webDriver Coverage Results" MODIFIED="1583941162667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iqyxs/spiders" />
+  </component>
+</project>

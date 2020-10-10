@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e681702-fe52-4a2d-82b3-8a75ee6de5df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtW2SeJDvCvnJtnManfuK34GpB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.2download">
+    <configuration name="2download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iqiyi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iqiyi/videoDown" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iqiyi/videoDown/2download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iqiyi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iqiyi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iqiyi/videoDown" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iqiyi/videoDown/iqiyi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iqiyi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iqiyi/videoDown" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iqiyi/videoDown/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iqiyi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iqiyi/spiders" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iqiyi/spiders/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2download" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.iqiyi" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e681702-fe52-4a2d-82b3-8a75ee6de5df" name="Default Changelist" comment="" />
+      <created>1583762163806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583762163806</updated>
+      <workItem from="1583762166320" duration="9931000" />
+      <workItem from="1583834897671" duration="8000" />
+      <workItem from="1583846249632" duration="247000" />
+      <workItem from="1583846504707" duration="563000" />
+      <workItem from="1583849188714" duration="21000" />
+      <workItem from="1583849630516" duration="17000" />
+      <workItem from="1583896352297" duration="447000" />
+      <workItem from="1583930349727" duration="7000" />
+      <workItem from="1583935151733" duration="22000" />
+      <workItem from="1583945478022" duration="601000" />
+      <workItem from="1584947402434" duration="415000" />
+      <workItem from="1587463882647" duration="1055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="977" y="143" key="#2download" timestamp="1583846454506">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state x="977" y="143" key="#2download/0.23.1920.996@0.23.1920.996" timestamp="1583846454506" />
+    <state x="675" y="143" key="#iqiyi" timestamp="1583765387713">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="675" y="143" key="#iqiyi/0.23.1920.993@0.23.1920.993" timestamp="1583765387713" />
+    <state x="689" y="142" key="#test" timestamp="1583762682088">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="689" y="142" key="#test/0.23.1920.991@0.23.1920.991" timestamp="1583762682088" />
+    <state x="609" y="142" key="#test_(1)" timestamp="1583766355874">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="609" y="142" key="#test_(1)/0.23.1920.991@0.23.1920.991" timestamp="1583766355874" />
+    <state width="1238" height="320" key="GridCell.Tab.0.bottom" timestamp="1583847675754">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1581" height="270" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1583766788574" />
+    <state width="1238" height="320" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1583797834575" />
+    <state width="1878" height="320" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1583772422664" />
+    <state width="1238" height="320" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1583847675754" />
+    <state width="1238" height="320" key="GridCell.Tab.0.center" timestamp="1583847675754">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1581" height="270" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1583766788573" />
+    <state width="1238" height="320" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1583797834575" />
+    <state width="1878" height="320" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1583772422663" />
+    <state width="1238" height="320" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1583847675754" />
+    <state width="1238" height="320" key="GridCell.Tab.0.left" timestamp="1583847675753">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1581" height="270" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1583766788573" />
+    <state width="1238" height="320" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1583797834574" />
+    <state width="1878" height="320" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1583772422663" />
+    <state width="1238" height="320" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1583847675753" />
+    <state width="1238" height="320" key="GridCell.Tab.0.right" timestamp="1583847675754">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="1581" height="270" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1583766788574" />
+    <state width="1238" height="320" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1583797834575" />
+    <state width="1878" height="320" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1583772422663" />
+    <state width="1238" height="320" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1583847675754" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/iqiyi$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1583772415188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iqiyi/videoDown" />
+    <SUITE FILE_PATH="coverage/iqiyi$iqiyi.coverage" NAME="iqiyi Coverage Results" MODIFIED="1583765387737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iqiyi/videoDown" />
+    <SUITE FILE_PATH="coverage/iqiyi$2download.coverage" NAME="2download Coverage Results" MODIFIED="1583846548514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iqiyi/videoDown" />
+    <SUITE FILE_PATH="coverage/iqiyi$test.coverage" NAME="test Coverage Results" MODIFIED="1583765220670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iqiyi/spiders" />
+  </component>
+</project>

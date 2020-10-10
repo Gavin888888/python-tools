@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58403d8e-10b6-4cc4-8e44-4d3c77486765" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sougou" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yq2CL4pgh3bdRQ6UMLJum2Tr9x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sougou/spiders" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.getVideoUrl">
+    <configuration name="getVideoUrl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sougou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sougou/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sougou/spiders/getVideoUrl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sougou" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sougou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spiders" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spiders/sougou.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.getVideoUrl" />
+        <item itemvalue="Python.sougou" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58403d8e-10b6-4cc4-8e44-4d3c77486765" name="Default Changelist" comment="" />
+      <created>1583655674516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583655674516</updated>
+      <workItem from="1583655675663" duration="600000" />
+      <workItem from="1583656438432" duration="3856000" />
+      <workItem from="1583660815992" duration="2074000" />
+      <workItem from="1583674488796" duration="329000" />
+      <workItem from="1583674867132" duration="5420000" />
+      <workItem from="1583935189035" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="140" key="#sougou" timestamp="1583655874780">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state x="675" y="140" key="#sougou/0.23.1920.987@0.23.1920.987" timestamp="1583655874780" />
+    <state width="1440" height="268" key="GridCell.Tab.0.bottom" timestamp="1583680525134">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1282" height="265" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1583675032365" />
+    <state width="1424" height="268" key="GridCell.Tab.0.bottom/0.23.1920.1003@0.23.1920.1003" timestamp="1583676798660" />
+    <state width="1440" height="268" key="GridCell.Tab.0.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1583680525134" />
+    <state width="1878" height="266" key="GridCell.Tab.0.bottom/0.23.1920.987@0.23.1920.987" timestamp="1583656276634" />
+    <state width="1440" height="268" key="GridCell.Tab.0.center" timestamp="1583680525133">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1282" height="265" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1583675032364" />
+    <state width="1424" height="268" key="GridCell.Tab.0.center/0.23.1920.1003@0.23.1920.1003" timestamp="1583676798659" />
+    <state width="1440" height="268" key="GridCell.Tab.0.center/0.23.1920.1004@0.23.1920.1004" timestamp="1583680525133" />
+    <state width="1878" height="266" key="GridCell.Tab.0.center/0.23.1920.987@0.23.1920.987" timestamp="1583656276633" />
+    <state width="1440" height="268" key="GridCell.Tab.0.left" timestamp="1583680525133">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1282" height="265" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1583675032364" />
+    <state width="1424" height="268" key="GridCell.Tab.0.left/0.23.1920.1003@0.23.1920.1003" timestamp="1583676798659" />
+    <state width="1440" height="268" key="GridCell.Tab.0.left/0.23.1920.1004@0.23.1920.1004" timestamp="1583680525133" />
+    <state width="1878" height="266" key="GridCell.Tab.0.left/0.23.1920.987@0.23.1920.987" timestamp="1583656276633" />
+    <state width="1440" height="268" key="GridCell.Tab.0.right" timestamp="1583680525133">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1282" height="265" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1583675032365" />
+    <state width="1424" height="268" key="GridCell.Tab.0.right/0.23.1920.1003@0.23.1920.1003" timestamp="1583676798659" />
+    <state width="1440" height="268" key="GridCell.Tab.0.right/0.23.1920.1004@0.23.1920.1004" timestamp="1583680525133" />
+    <state width="1878" height="266" key="GridCell.Tab.0.right/0.23.1920.987@0.23.1920.987" timestamp="1583656276634" />
+    <state x="641" y="154" key="SettingsEditor" timestamp="1583656016411">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state x="641" y="154" key="SettingsEditor/0.23.1920.987@0.23.1920.987" timestamp="1583656016411" />
+    <state x="303" y="26" width="1204" height="828" key="dock-window-1" timestamp="1583678451896">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="303" y="26" width="1204" height="828" key="dock-window-1/0.23.1920.1004@0.23.1920.1004" timestamp="1583678451896" />
+    <state x="0" y="23" width="960" height="1004" key="dock-window-1/0.23.1920.1005@0.23.1920.1005" timestamp="1583677241089" />
+    <state x="126" y="396" width="1315" height="790" key="dock-window-1/0.23.1920.985@0.23.1920.985" timestamp="1583658330265" />
+    <state x="148" y="181" width="1257" height="689" key="dock-window-2" timestamp="1583659110457">
+      <screen x="0" y="23" width="1920" height="985" />
+    </state>
+    <state x="148" y="181" width="1257" height="689" key="dock-window-2/0.23.1920.985@0.23.1920.985" timestamp="1583659110457" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sougou$sougou.coverage" NAME="sougou Coverage Results" MODIFIED="1583655874833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiders" />
+    <SUITE FILE_PATH="coverage/sougou$getVideoUrl.coverage" NAME="getVideoUrl Coverage Results" MODIFIED="1583680157230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sougou/spiders" />
+  </component>
+</project>

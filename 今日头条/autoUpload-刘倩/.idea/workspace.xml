@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34ddb705-7f1e-447a-8fbb-de998fd5903c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YcmuQZaKgazcKK1a0qgLS3ZaY8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/step1_videoScrapy/15611729727/sougou" />
+      <recent name="$PROJECT_DIR$/step3_cookies" />
+      <recent name="$PROJECT_DIR$/2-dbmanager" />
+      <recent name="$PROJECT_DIR$/videos" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.step3_saveCookies">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="autoUpload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insertVideoToDB (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="autoUpload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step2_dbmanager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step2_dbmanager/insertVideoToDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="autoUpload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="step3_saveCookies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="autoUpload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step3_cookies" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step3_cookies/step3_saveCookies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="step5_allUpload2XG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="autoUpload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step5_allUpload2XG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="autoUpload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step2_dbmanager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step2_dbmanager/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.insertVideoToDB (1)" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.step5_allUpload2XG" />
+      <item itemvalue="Python.step3_saveCookies" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.step3_saveCookies" />
+        <item itemvalue="Python.step5_allUpload2XG" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.insertVideoToDB (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34ddb705-7f1e-447a-8fbb-de998fd5903c" name="Default Changelist" comment="" />
+      <created>1583250478924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583250478924</updated>
+      <workItem from="1583250481099" duration="919000" />
+      <workItem from="1583320847205" duration="5329000" />
+      <workItem from="1583339331446" duration="51000" />
+      <workItem from="1583369326050" duration="9026000" />
+      <workItem from="1583411143172" duration="6000" />
+      <workItem from="1583414116629" duration="3690000" />
+      <workItem from="1583424190899" duration="3066000" />
+      <workItem from="1583459628833" duration="3491000" />
+      <workItem from="1583467717716" duration="10700000" />
+      <workItem from="1583490409114" duration="1400000" />
+      <workItem from="1583505935359" duration="41242000" />
+      <workItem from="1583592335557" duration="6533000" />
+      <workItem from="1583646294902" duration="1955000" />
+      <workItem from="1583652674343" duration="2969000" />
+      <workItem from="1583656071349" duration="277000" />
+      <workItem from="1583660022181" duration="167000" />
+      <workItem from="1583661216713" duration="1219000" />
+      <workItem from="1583674867447" duration="716000" />
+      <workItem from="1583681020740" duration="577000" />
+      <workItem from="1583736515783" duration="2373000" />
+      <workItem from="1583746675953" duration="356000" />
+      <workItem from="1583747136543" duration="5842000" />
+      <workItem from="1583765493106" duration="620000" />
+      <workItem from="1583767989551" duration="259000" />
+      <workItem from="1583799537234" duration="344000" />
+      <workItem from="1583803099392" duration="115000" />
+      <workItem from="1583829522600" duration="538000" />
+      <workItem from="1583837691425" duration="543000" />
+      <workItem from="1583848142437" duration="289000" />
+      <workItem from="1583852281194" duration="1758000" />
+      <workItem from="1583888883502" duration="260000" />
+      <workItem from="1583889812381" duration="1082000" />
+      <workItem from="1583893010269" duration="876000" />
+      <workItem from="1583897456996" duration="1527000" />
+      <workItem from="1583928169447" duration="134000" />
+      <workItem from="1583930690888" duration="2942000" />
+      <workItem from="1583972741951" duration="185000" />
+      <workItem from="1583986301658" duration="614000" />
+      <workItem from="1583987526797" duration="844000" />
+      <workItem from="1583989462323" duration="1122000" />
+      <workItem from="1584008993767" duration="32000" />
+      <workItem from="1584163196030" duration="1027000" />
+      <workItem from="1584168290011" duration="756000" />
+      <workItem from="1584257607623" duration="825000" />
+      <workItem from="1584414548949" duration="625000" />
+      <workItem from="1584427971402" duration="697000" />
+      <workItem from="1584440397346" duration="257000" />
+      <workItem from="1585313907164" duration="37000" />
+      <workItem from="1585551861790" duration="70000" />
+      <workItem from="1585555649870" duration="111000" />
+      <workItem from="1585569038092" duration="6000" />
+      <workItem from="1586406949464" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="188" key="#Notifications" timestamp="1583545193301">
+      <screen x="0" y="23" width="1920" height="997" />
+    </state>
+    <state x="713" y="188" key="#Notifications/0.23.1920.997@0.23.1920.997" timestamp="1583545193301" />
+    <state x="531" y="188" key="#SQL_Dialects" timestamp="1583552429496">
+      <screen x="0" y="23" width="1920" height="997" />
+    </state>
+    <state x="531" y="188" key="#SQL_Dialects/0.23.1920.997@0.23.1920.997" timestamp="1583552429496" />
+    <state x="703" y="179" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583250591489">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="703" y="179" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.990@0.23.1920.990" timestamp="1583250591489" />
+    <state width="1332" height="288" key="GridCell.Tab.0.bottom" timestamp="1583991957098">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1127" height="260" key="GridCell.Tab.0.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1583737989956" />
+    <state width="1346" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1583573462020" />
+    <state width="1346" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1003@0.23.1920.1003" timestamp="1583573519296" />
+    <state width="1346" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1583573557704" />
+    <state width="1346" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1005@0.23.1920.1005" timestamp="1583573647721" />
+    <state width="1346" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1006@0.23.1920.1006" timestamp="1583573692868" />
+    <state width="1346" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1007@0.23.1920.1007" timestamp="1583573707955" />
+    <state width="1346" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1583573848127" />
+    <state width="1346" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1009@0.23.1920.1009" timestamp="1583573875219" />
+    <state width="1346" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1010@0.23.1920.1010" timestamp="1583573904243" />
+    <state width="1878" height="359" key="GridCell.Tab.0.bottom/0.23.1920.1011@0.23.1920.1011" timestamp="1583574030272" />
+    <state width="1332" height="232" key="GridCell.Tab.0.bottom/0.23.1920.985@0.23.1920.985" timestamp="1583893530105" />
+    <state width="1332" height="2" key="GridCell.Tab.0.bottom/0.23.1920.987@0.23.1920.987" timestamp="1583986537848" />
+    <state width="1332" height="51" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1583986979437" />
+    <state width="1332" height="51" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1583986613022" />
+    <state width="1332" height="288" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1583991719488" />
+    <state width="1246" height="210" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1583748689617" />
+    <state width="1332" height="288" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1583991957098" />
+    <state width="1332" height="288" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1583991645275" />
+    <state width="1332" height="51" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1583972823523" />
+    <state width="1332" height="51" key="GridCell.Tab.0.bottom/0.23.1920.997@0.23.1920.997" timestamp="1583972964315" />
+    <state width="1332" height="288" key="GridCell.Tab.0.center" timestamp="1583991957097">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1127" height="260" key="GridCell.Tab.0.center/0.23.1920.1001@0.23.1920.1001" timestamp="1583737989956" />
+    <state width="1346" height="359" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1583573462020" />
+    <state width="1346" height="359" key="GridCell.Tab.0.center/0.23.1920.1003@0.23.1920.1003" timestamp="1583573519296" />
+    <state width="1346" height="359" key="GridCell.Tab.0.center/0.23.1920.1004@0.23.1920.1004" timestamp="1583573557703" />
+    <state width="1346" height="359" key="GridCell.Tab.0.center/0.23.1920.1005@0.23.1920.1005" timestamp="1583573647721" />
+    <state width="1346" height="359" key="GridCell.Tab.0.center/0.23.1920.1006@0.23.1920.1006" timestamp="1583573692867" />
+    <state width="1346" height="359" key="GridCell.Tab.0.center/0.23.1920.1007@0.23.1920.1007" timestamp="1583573707954" />
+    <state width="1346" height="359" key="GridCell.Tab.0.center/0.23.1920.1008@0.23.1920.1008" timestamp="1583573848126" />
+    <state width="1346" height="359" key="GridCell.Tab.0.center/0.23.1920.1009@0.23.1920.1009" timestamp="1583573875218" />
+    <state width="1346" height="359" key="GridCell.Tab.0.center/0.23.1920.1010@0.23.1920.1010" timestamp="1583573904243" />
+    <state width="1878" height="359" key="GridCell.Tab.0.center/0.23.1920.1011@0.23.1920.1011" timestamp="1583574030272" />
+    <state width="1332" height="232" key="GridCell.Tab.0.center/0.23.1920.985@0.23.1920.985" timestamp="1583893530105" />
+    <state width="1332" height="2" key="GridCell.Tab.0.center/0.23.1920.987@0.23.1920.987" timestamp="1583986537847" />
+    <state width="1332" height="51" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1583986979437" />
+    <state width="1332" height="51" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1583986613021" />
+    <state width="1332" height="288" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1583991719487" />
+    <state width="1246" height="210" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1583748689616" />
+    <state width="1332" height="288" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1583991957097" />
+    <state width="1332" height="288" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1583991645274" />
+    <state width="1332" height="51" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1583972823522" />
+    <state width="1332" height="51" key="GridCell.Tab.0.center/0.23.1920.997@0.23.1920.997" timestamp="1583972964314" />
+    <state width="1332" height="288" key="GridCell.Tab.0.left" timestamp="1583991957097">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1127" height="260" key="GridCell.Tab.0.left/0.23.1920.1001@0.23.1920.1001" timestamp="1583737989956" />
+    <state width="1346" height="359" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1583573462019" />
+    <state width="1346" height="359" key="GridCell.Tab.0.left/0.23.1920.1003@0.23.1920.1003" timestamp="1583573519295" />
+    <state width="1346" height="359" key="GridCell.Tab.0.left/0.23.1920.1004@0.23.1920.1004" timestamp="1583573557703" />
+    <state width="1346" height="359" key="GridCell.Tab.0.left/0.23.1920.1005@0.23.1920.1005" timestamp="1583573647721" />
+    <state width="1346" height="359" key="GridCell.Tab.0.left/0.23.1920.1006@0.23.1920.1006" timestamp="1583573692867" />
+    <state width="1346" height="359" key="GridCell.Tab.0.left/0.23.1920.1007@0.23.1920.1007" timestamp="1583573707954" />
+    <state width="1346" height="359" key="GridCell.Tab.0.left/0.23.1920.1008@0.23.1920.1008" timestamp="1583573848126" />
+    <state width="1346" height="359" key="GridCell.Tab.0.left/0.23.1920.1009@0.23.1920.1009" timestamp="1583573875218" />
+    <state width="1346" height="359" key="GridCell.Tab.0.left/0.23.1920.1010@0.23.1920.1010" timestamp="1583573904242" />
+    <state width="1878" height="359" key="GridCell.Tab.0.left/0.23.1920.1011@0.23.1920.1011" timestamp="1583574030271" />
+    <state width="1332" height="232" key="GridCell.Tab.0.left/0.23.1920.985@0.23.1920.985" timestamp="1583893530104" />
+    <state width="1332" height="2" key="GridCell.Tab.0.left/0.23.1920.987@0.23.1920.987" timestamp="1583986537847" />
+    <state width="1332" height="51" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1583986979436" />
+    <state width="1332" height="51" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1583986613021" />
+    <state width="1332" height="288" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1583991719487" />
+    <state width="1246" height="210" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1583748689616" />
+    <state width="1332" height="288" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1583991957097" />
+    <state width="1332" height="288" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1583991645274" />
+    <state width="1332" height="51" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1583972823521" />
+    <state width="1332" height="51" key="GridCell.Tab.0.left/0.23.1920.997@0.23.1920.997" timestamp="1583972964314" />
+    <state width="1332" height="288" key="GridCell.Tab.0.right" timestamp="1583991957097">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state width="1127" height="260" key="GridCell.Tab.0.right/0.23.1920.1001@0.23.1920.1001" timestamp="1583737989956" />
+    <state width="1346" height="359" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1583573462020" />
+    <state width="1346" height="359" key="GridCell.Tab.0.right/0.23.1920.1003@0.23.1920.1003" timestamp="1583573519296" />
+    <state width="1346" height="359" key="GridCell.Tab.0.right/0.23.1920.1004@0.23.1920.1004" timestamp="1583573557704" />
+    <state width="1346" height="359" key="GridCell.Tab.0.right/0.23.1920.1005@0.23.1920.1005" timestamp="1583573647721" />
+    <state width="1346" height="359" key="GridCell.Tab.0.right/0.23.1920.1006@0.23.1920.1006" timestamp="1583573692867" />
+    <state width="1346" height="359" key="GridCell.Tab.0.right/0.23.1920.1007@0.23.1920.1007" timestamp="1583573707955" />
+    <state width="1346" height="359" key="GridCell.Tab.0.right/0.23.1920.1008@0.23.1920.1008" timestamp="1583573848127" />
+    <state width="1346" height="359" key="GridCell.Tab.0.right/0.23.1920.1009@0.23.1920.1009" timestamp="1583573875219" />
+    <state width="1346" height="359" key="GridCell.Tab.0.right/0.23.1920.1010@0.23.1920.1010" timestamp="1583573904243" />
+    <state width="1878" height="359" key="GridCell.Tab.0.right/0.23.1920.1011@0.23.1920.1011" timestamp="1583574030272" />
+    <state width="1332" height="232" key="GridCell.Tab.0.right/0.23.1920.985@0.23.1920.985" timestamp="1583893530105" />
+    <state width="1332" height="2" key="GridCell.Tab.0.right/0.23.1920.987@0.23.1920.987" timestamp="1583986537847" />
+    <state width="1332" height="51" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1583986979437" />
+    <state width="1332" height="51" key="GridCell.Tab.0.right/0.23.1920.990@0.23.1920.990" timestamp="1583986613022" />
+    <state width="1332" height="288" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1583991719487" />
+    <state width="1246" height="210" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1583748689617" />
+    <state width="1332" height="288" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1583991957097" />
+    <state width="1332" height="288" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1583991645275" />
+    <state width="1332" height="51" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1583972823522" />
+    <state width="1332" height="51" key="GridCell.Tab.0.right/0.23.1920.997@0.23.1920.997" timestamp="1583972964315" />
+    <state width="1332" height="2" key="GridCell.Tab.1.bottom" timestamp="1583986979433">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1127" height="334" key="GridCell.Tab.1.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1583737967921" />
+    <state width="1332" height="2" key="GridCell.Tab.1.bottom/0.23.1920.987@0.23.1920.987" timestamp="1583986537849" />
+    <state width="1332" height="2" key="GridCell.Tab.1.bottom/0.23.1920.988@0.23.1920.988" timestamp="1583986979433" />
+    <state width="1127" height="334" key="GridCell.Tab.1.bottom/0.23.1920.994@0.23.1920.994" timestamp="1583739159415" />
+    <state width="1332" height="2" key="GridCell.Tab.1.center" timestamp="1583986979433">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1127" height="334" key="GridCell.Tab.1.center/0.23.1920.1001@0.23.1920.1001" timestamp="1583737967920" />
+    <state width="1332" height="2" key="GridCell.Tab.1.center/0.23.1920.987@0.23.1920.987" timestamp="1583986537848" />
+    <state width="1332" height="2" key="GridCell.Tab.1.center/0.23.1920.988@0.23.1920.988" timestamp="1583986979433" />
+    <state width="1127" height="334" key="GridCell.Tab.1.center/0.23.1920.994@0.23.1920.994" timestamp="1583739159415" />
+    <state width="1332" height="2" key="GridCell.Tab.1.left" timestamp="1583986979432">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1127" height="334" key="GridCell.Tab.1.left/0.23.1920.1001@0.23.1920.1001" timestamp="1583737967920" />
+    <state width="1332" height="2" key="GridCell.Tab.1.left/0.23.1920.987@0.23.1920.987" timestamp="1583986537848" />
+    <state width="1332" height="2" key="GridCell.Tab.1.left/0.23.1920.988@0.23.1920.988" timestamp="1583986979432" />
+    <state width="1127" height="334" key="GridCell.Tab.1.left/0.23.1920.994@0.23.1920.994" timestamp="1583739159415" />
+    <state width="1332" height="2" key="GridCell.Tab.1.right" timestamp="1583986979433">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state width="1127" height="334" key="GridCell.Tab.1.right/0.23.1920.1001@0.23.1920.1001" timestamp="1583737967921" />
+    <state width="1332" height="2" key="GridCell.Tab.1.right/0.23.1920.987@0.23.1920.987" timestamp="1583986537848" />
+    <state width="1332" height="2" key="GridCell.Tab.1.right/0.23.1920.988@0.23.1920.988" timestamp="1583986979433" />
+    <state width="1127" height="334" key="GridCell.Tab.1.right/0.23.1920.994@0.23.1920.994" timestamp="1583739159415" />
+    <state x="94" y="73" key="SettingsEditor" timestamp="1583545189256">
+      <screen x="0" y="23" width="1920" height="997" />
+    </state>
+    <state x="683" y="154" key="SettingsEditor/0.23.1920.990@0.23.1920.990" timestamp="1583250695617" />
+    <state x="94" y="73" key="SettingsEditor/0.23.1920.997@0.23.1920.997" timestamp="1583545189256" />
+    <state x="0" y="23" width="1217" height="506" key="dock-window-1" timestamp="1583546816512">
+      <screen x="0" y="23" width="1920" height="997" />
+    </state>
+    <state x="0" y="23" width="1217" height="506" key="dock-window-1/0.23.1920.997@0.23.1920.997" timestamp="1583546816512" />
+    <state x="881" y="163" width="645" height="711" key="find.popup" timestamp="1584440638823">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="881" y="163" width="645" height="708" key="find.popup/0.23.1920.988@0.23.1920.988" timestamp="1583853208746" />
+    <state x="881" y="163" width="645" height="710" key="find.popup/0.23.1920.990@0.23.1920.990" timestamp="1583936735256" />
+    <state x="881" y="163" width="645" height="711" key="find.popup/0.23.1920.991@0.23.1920.991" timestamp="1584440638823" />
+    <state x="953" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1583328449269">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state x="953" y="241" width="670" height="676" key="search.everywhere.popup/0.23.1920.994@0.23.1920.994" timestamp="1583328449269" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/autoUpload$step5_allUpload2XG.coverage" NAME="step5_allUpload2XG Coverage Results" MODIFIED="1583986664307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoUpload$videoCutter__3_.coverage" NAME="videoCutter (3) Coverage Results" MODIFIED="1583469174504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../133" />
+    <SUITE FILE_PATH="coverage/autoUpload$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1583550638182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoUpload$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1583250593486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/autoUpload$videoCutter__2_.coverage" NAME="videoCutter (2) Coverage Results" MODIFIED="1583468742763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../129" />
+    <SUITE FILE_PATH="coverage/autoUpload$test.coverage" NAME="test Coverage Results" MODIFIED="1583799624268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/step2_dbmanager" />
+    <SUITE FILE_PATH="coverage/autoUpload$renameFile.coverage" NAME="renameFile Coverage Results" MODIFIED="1583425044338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoUpload$sougou.coverage" NAME="sougou Coverage Results" MODIFIED="1583596326473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/step1_videoScrapy/15611729727/sougou/sougou/spiders" />
+    <SUITE FILE_PATH="coverage/autoUpload$videoCutter__4_.coverage" NAME="videoCutter (4) Coverage Results" MODIFIED="1583474243369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/autoUpload$changeFileName.coverage" NAME="changeFileName Coverage Results" MODIFIED="1583474235903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Volumes/lilei/项目/python/改文件名字" />
+    <SUITE FILE_PATH="coverage/autoUpload$scheduleTask.coverage" NAME="scheduleTask Coverage Results" MODIFIED="1583537630192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoUpload$uploadToXg.coverage" NAME="uploadToXg Coverage Results" MODIFIED="1583376734730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoUpload$main.coverage" NAME="main Coverage Results" MODIFIED="1583986537829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoUpload$step5_scheduleTask.coverage" NAME="main Coverage Results" MODIFIED="1583585259626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoUpload$saveCookies.coverage" NAME="saveCookies Coverage Results" MODIFIED="1583490528833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoUpload$iqy.coverage" NAME="iqy Coverage Results" MODIFIED="1583513962455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoUpload$videoCutter.coverage" NAME="videoCutter Coverage Results" MODIFIED="1583468277074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../122" />
+    <SUITE FILE_PATH="coverage/autoUpload$step3_saveCookies.coverage" NAME="step3_saveCookies Coverage Results" MODIFIED="1583991719481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/step3_cookies" />
+    <SUITE FILE_PATH="coverage/autoUpload$5_scheduleTask.coverage" NAME="5-scheduleTask的副本 Coverage Results" MODIFIED="1583564579411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoUpload$allUpload2XG.coverage" NAME="allUpload2XG Coverage Results" MODIFIED="1583462139639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoUpload$insertVideoToDB.coverage" NAME="insertVideoToDB Coverage Results" MODIFIED="1583563515157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-dbmanager" />
+    <SUITE FILE_PATH="coverage/autoUpload$videoCutter__1_.coverage" NAME="videoCutter (1) Coverage Results" MODIFIED="1583468997146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../131" />
+    <SUITE FILE_PATH="coverage/autoUpload$insertVideoToDB__1_.coverage" NAME="insertVideoToDB (1) Coverage Results" MODIFIED="1583646347964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/step2_dbmanager" />
+  </component>
+</project>

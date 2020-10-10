@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40e3b11f-afdf-401e-9065-b55ee57c4139" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YeCXMx8EsVjiZTmiRLBTt7kD2Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.changeFileName">
+    <configuration name="changeFileName" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="改文件名字" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/changeFileName.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="videoCutter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="改文件名字" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../视频去片头" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../视频去片头/videoCutter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.changeFileName" />
+        <item itemvalue="Python.videoCutter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40e3b11f-afdf-401e-9065-b55ee57c4139" name="Default Changelist" comment="" />
+      <created>1583293712000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583293712000</updated>
+      <workItem from="1583293714628" duration="1958000" />
+      <workItem from="1583298284354" duration="269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="146" key="#changeFileName" timestamp="1583294511437">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="1060" y="146" key="#changeFileName/0.23.1920.993@0.23.1920.993" timestamp="1583294511437" />
+    <state x="911" y="140" key="#videoCutter" timestamp="1583295446579">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="911" y="140" key="#videoCutter/0.23.1920.993@0.23.1920.993" timestamp="1583295446579" />
+    <state width="1200" height="383" key="GridCell.Tab.0.bottom" timestamp="1583298575865">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1200" height="383" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1583295681585" />
+    <state width="1200" height="383" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1583298575865" />
+    <state width="1200" height="383" key="GridCell.Tab.0.center" timestamp="1583298575864">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1200" height="383" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1583295681584" />
+    <state width="1200" height="383" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1583298575864" />
+    <state width="1200" height="383" key="GridCell.Tab.0.left" timestamp="1583298575864">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1200" height="383" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1583295681584" />
+    <state width="1200" height="383" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1583298575864" />
+    <state width="1200" height="383" key="GridCell.Tab.0.right" timestamp="1583298575864">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1200" height="383" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1583295681585" />
+    <state width="1200" height="383" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1583298575864" />
+    <state x="854" y="161" key="SettingsEditor" timestamp="1583295675183">
+      <screen x="0" y="23" width="1920" height="993" />
+    </state>
+    <state x="854" y="161" key="SettingsEditor/0.23.1920.993@0.23.1920.993" timestamp="1583295675183" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$videoCutter.coverage" NAME="videoCutter Coverage Results" MODIFIED="1583295676902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../视频去片头" />
+    <SUITE FILE_PATH="coverage/$changeFileName.coverage" NAME="changeFileName Coverage Results" MODIFIED="1583298422133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

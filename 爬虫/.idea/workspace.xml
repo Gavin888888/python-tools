@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31a60dcb-94bd-4e5f-b738-697a8e524cfd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/tuerscrapy/Goodboy/Goodboy/spiders/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuerscrapy/Goodboy/Goodboy/spiders/index.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tuerscrapy" />
+  </component>
+  <component name="ProjectId" id="1Ykujk92WnSJpnH9Hj6wGEfUbea" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/poemdownload/poemdownload/spiders" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="gushi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuerscrapy/网页爬虫/tuerweb/tuerweb/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuerscrapy/网页爬虫/tuerweb/tuerweb/spiders/gushi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gushi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31a60dcb-94bd-4e5f-b738-697a8e524cfd" name="Default Changelist" comment="" />
+      <created>1583499050607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583499050607</updated>
+      <workItem from="1583499053126" duration="3220000" />
+      <workItem from="1583505934894" duration="7000" />
+      <workItem from="1583537464458" duration="898000" />
+      <workItem from="1583654248469" duration="1400000" />
+      <workItem from="1583655750085" duration="597000" />
+      <workItem from="1583658894187" duration="791000" />
+      <workItem from="1583660815717" duration="1771000" />
+      <workItem from="1583812614778" duration="432000" />
+      <workItem from="1583849672315" duration="259000" />
+      <workItem from="1583850006236" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="142" key="#gushi" timestamp="1583500305532">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="698" y="142" key="#gushi/0.23.1920.1004@0.23.1920.1004" timestamp="1583500305532" />
+  </component>
+</project>

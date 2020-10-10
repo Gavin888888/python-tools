@@ -1,0 +1,23 @@
+        f = open('/Users/leili/Documents/项目/python/爬虫/tuerscrapy/网页爬虫/tuerweb/tuerweb/spiders/gushi.json',
+                 encoding='utf-8')  # 打开‘product.json’的json文件
+        res = f.read()  # 读文件
+        list = res.split(",", 250)
+        gushi_item = TestItem()
+        for temp in list:
+            gushi_item['id'] = temp.split("/", 5)[5].replace(".html", "")
+            gushi_item['url'] = temp.replace("\n", "")
+            yield gushi_item
+        print(gushi_item)
+
+             # print('\033[1;31;20m')  # 下一目标输出背景为黑色，颜色红色高亮显示  /div[@class='u-cover']/img/@lz-src .extract()
+        # print('*' * 100)
+        # print(response.url.split("/", 5)[4])
+        # rs = json.loads(response.text)
+        # gushi_item = TestItem()
+        # for temp in rs["result"]["list"]["data"]:
+        #     gushi_item['id'] = temp["id"]
+        #     gushi_item['url'] = "http://www.tuer123.com/gushi/%s/%s.html"%(response.url.split("/", 5)[4],temp["id"])
+        #     yield gushi_item
+        # print(gushi_item)
+        # print('*' * 100)
+        # print('\033[0m')
